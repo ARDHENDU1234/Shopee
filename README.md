@@ -20,5 +20,5 @@
 
 ## Demo
 
-Experience the live demo of Shoppe [here](#).
+Experience the live demo of Shoppe [here](https://shopee-ardhendu-shekhar.vercel.app/).
 
